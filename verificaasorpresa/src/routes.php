@@ -86,8 +86,6 @@ function registerRoutes($app)
         return $res->withHeader('Content-Type','application/json');
     });
 
-
-
 } 
 
 ?>
